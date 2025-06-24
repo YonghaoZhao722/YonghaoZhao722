@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Southwest Jiaotong University**
 
-- 💬 Ask me about **Time-to-event Analysis / Survival Prognosis**
+- 💬 Ask me about **Cell Segmentation Approach / Survival Prognosis / RNA-seq Deconvolution**
 
 - 📫 How to reach me **sc22yz3@leeds.ac.uk**
 
@@ -21,4 +21,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yonghaozhao722&show_icons=true&locale=en&layout=compact" alt="yonghaozhao722" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yonghaozhao722&show_icons=true&locale=en" alt="yonghaozhao722" /></p>
