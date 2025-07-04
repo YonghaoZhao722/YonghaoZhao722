@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Cell Segmentation Approach / Survival Prognosis / RNA-seq Deconvolution**
 
-- 📫 How to reach me **sc22yz3@leeds.ac.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
