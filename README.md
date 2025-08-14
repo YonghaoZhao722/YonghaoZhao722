@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yonghaozhao722" alt="yonghaozhao722" /></a> </p>
 
-- 🔭 I’m currently working on **Southwest Jiaotong University**
-
 - 💬 Ask me about **Cell Segmentation Approach / Survival Prognosis / RNA-seq Deconvolution**
 
 <h3 align="left">Languages and Tools:</h3>
