@@ -11,4 +11,4 @@
 
 - 🤖 I'm also interested in **AI Infra / Agentic AI**
 
-- 📫 How to reach me **sc22yz3@leeds.ac.uk**
+- 📫 How to reach me **yonghao.zhao@cuanschutz.edu**
