@@ -9,6 +9,4 @@
 
 - 🌱 I’m currently learning **scRNA-seq / Spatial-omics**
 
-- 🤖 I'm also interested in **AI Harness / Agentic AI**
-
 - 📫 How to reach me **yonghao.zhao@cuanschutz.edu**
