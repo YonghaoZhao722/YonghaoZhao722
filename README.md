@@ -2,7 +2,8 @@
 <h3 align="center">
   Incoming PhD Student in Computational Bioscience @ <a href="https://www.cuanschutz.edu/about">CU Anschutz</a>
 </h3>
-<a href="https://gitroll.io/profile/uLnW2pAjDmQZBxMZUp4kxBu9nlLi2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLnW2pAjDmQZBxMZUp4kxBu9nlLi2?theme=sepia" alt="GitRoll Profile Badge"/></a>
+
+<a href="https://gitroll.io/profile/uLnW2pAjDmQZBxMZUp4kxBu9nlLi2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLnW2pAjDmQZBxMZUp4kxBu9nlLi2?theme=light" alt="GitRoll Profile Badge"/></a>
 
 - 💬 Ask me about **Cell Segmentation / Risk Prediction**
 
