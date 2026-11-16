@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yonghao Zhao</h1>
 <h3 align="center">
-  PhD Student in Computational Bioscience @ <a href="https://www.cuanschutz.edu/about">CU Anschutz</a>
+  PhD Student in Biomedical Informatics, Modeling, and AI @ <a href="https://www.cuanschutz.edu/about">CU Anschutz</a>
 </h3>
 
 <a href="https://gitroll.io/profile/uLnW2pAjDmQZBxMZUp4kxBu9nlLi2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLnW2pAjDmQZBxMZUp4kxBu9nlLi2?theme=light" alt="GitRoll Profile Badge"/></a>
